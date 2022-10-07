@@ -1,0 +1,28 @@
+Algoritmo Planta_decorativa
+	Definir nombre Como caracter
+	nombre= "Gardenia"
+	Escribir "El nombre de la planta es " nombre
+	Escribir "Ingrese el nuevo nommbre: "
+	Leer nombre 
+	
+	
+	Definir colorMatera como caracter
+	colorMatera= "Negro"
+	Definir relleno Como Caracter
+	relleno= "Tierra"
+	Definir natural  Como Logico
+	natural= Verdadero
+	Definir tipo Como Caracter
+	tipo= "Ornamental"
+	Definir cantidad Como Entero
+	cantidad= 1
+	Definir color_flor Como Caracter
+	color_flor= "Blanco"
+	Definir color_hoja Como Caracter
+	color_hoja= "Verde"
+	Definir tamaño Como caracter
+	tamaño = "3cm"
+	
+	Escribir "El nombre de la planta es " nombre, " El color de la matera es " colorMatera, " La matera esta rellena de " relleno, " La planta es de tipo " tipo, " La flor de la planta es de color " color_flor, " Las hojas son de color " color_hoja, " La cantidad en el inventario es " cantidad
+	
+FinAlgoritmo
